@@ -84,12 +84,14 @@ const CardComponent = () => {
         {/* CARD 1 */}
         <div className="c-card" ref={addToRefs}>
           <div className="c-card__description">
-            <div className="c-card__tagline">Amon The Sign</div>
+            <div className="c-card__tagline">Open Track</div>
 
-            <h1 className="c-card__title">Zzor / Bass</h1>
+            <h1 className="c-card__title"></h1>
 
             <div className="c-card__excerpt">
-              Zzor es el bajista de la banda de Darkwave española: Amon The sign
+              Open Track is a flexible category that welcomes any innovative
+              project idea, letting participants explore and create without
+              thematic constraints.
             </div>
 
             <div className="c-card__cta">
@@ -105,7 +107,7 @@ const CardComponent = () => {
 
           <figure className="c-card__figure">
             <img
-              src="https://www.ats.hugo-salazar.com/wp-content/uploads/2023/04/zzor.jpeg"
+              src="https://pechacks.org/img/Domains/Open_Track_final.jpg"
               alt="Zzor"
             />
           </figure>
@@ -114,13 +116,14 @@ const CardComponent = () => {
         {/* CARD 2 */}
         <div className="c-card" ref={addToRefs}>
           <div className="c-card__description">
-            <div className="c-card__tagline">Amon The Sign</div>
+            <div className="c-card__tagline">Health Care</div>
 
-            <h1 className="c-card__title">Amón Lopez / Vocals</h1>
+            <h1 className="c-card__title"></h1>
 
             <div className="c-card__excerpt">
-              Amon Lopez es la voz masculina de la banda de Darkwave española:
-              Amon The sign
+              Health Care involves the maintenance and improvement of physical
+              and mental health through medical services, prevention, diagnosis,
+              and treatment.
             </div>
 
             <div className="c-card__cta">
@@ -136,7 +139,7 @@ const CardComponent = () => {
 
           <figure className="c-card__figure">
             <img
-              src="https://www.ats.hugo-salazar.com/wp-content/uploads/2023/04/pincho.jpeg"
+              src="https://pechacks.org/img/Domains/Healthcare_final.jpg"
               alt="Amon Lopez"
             />
           </figure>
@@ -145,13 +148,14 @@ const CardComponent = () => {
         {/* CARD 3 */}
         <div className="c-card" ref={addToRefs}>
           <div className="c-card__description">
-            <div className="c-card__tagline">Amon The Sign</div>
+            <div className="c-card__tagline">Social Impact</div>
 
-            <h1 className="c-card__title">Marisa / Vocals</h1>
+            <h1 className="c-card__title"></h1>
 
             <div className="c-card__excerpt">
-              Marisa es la voz femenina de la banda de Darkwave española: Amon
-              The sign
+              Social Impact refers to the positive effect a project or action
+              has on the well-being, equity, and development of individuals and
+              communities.
             </div>
 
             <div className="c-card__cta">
@@ -167,7 +171,7 @@ const CardComponent = () => {
 
           <figure className="c-card__figure">
             <img
-              src="https://www.ats.hugo-salazar.com/wp-content/uploads/2023/04/marisa.jpeg"
+              src="https://pechacks.org/img/Domains/Social_Impact_final.jpg"
               alt="Marisa"
             />
           </figure>
@@ -176,13 +180,13 @@ const CardComponent = () => {
         {/* CARD 4 */}
         <div className="c-card" ref={addToRefs}>
           <div className="c-card__description">
-            <div className="c-card__tagline">Amon The Sign</div>
+            <div className="c-card__tagline">Blockchain & Web 3</div>
 
-            <h1 className="c-card__title">Vicente / Guitars</h1>
+            <h1 className="c-card__title"></h1>
 
             <div className="c-card__excerpt">
-              Vicente es el guitarrista de la banda de Darkwave española: Amon
-              The sign
+              Blockchain & Web3 enable decentralized, transparent, and secure
+              digital interactions without relying on central authorities.
             </div>
 
             <div className="c-card__cta">
@@ -198,7 +202,7 @@ const CardComponent = () => {
 
           <figure className="c-card__figure">
             <img
-              src="https://www.ats.hugo-salazar.com/wp-content/uploads/2023/04/vicente.jpeg"
+              src="https://pechacks.org/img/Domains/Web_3_Blockchain_final.jpg"
               alt="Vicente Payá"
             />
           </figure>
@@ -207,13 +211,14 @@ const CardComponent = () => {
         {/* CARD 5 */}
         <div className="c-card" ref={addToRefs}>
           <div className="c-card__description">
-            <div className="c-card__tagline">Amon The Sign</div>
+            <div className="c-card__tagline">Artificial Intelligence</div>
 
-            <h1 className="c-card__title">Leoben Conoy / Synths</h1>
+            <h1 className="c-card__title"></h1>
 
             <div className="c-card__excerpt">
-              Leoben Conoy es el teclista de la banda de Darkwave española: Amon
-              The sign
+              Artificial Intelligence (AI) is the simulation of human
+              intelligence by machines to perform tasks like learning,
+              reasoning, and problem-solving.
             </div>
 
             <div className="c-card__cta">
@@ -229,7 +234,7 @@ const CardComponent = () => {
 
           <figure className="c-card__figure">
             <img
-              src="https://www.ats.hugo-salazar.com/wp-content/uploads/2023/04/leoben.jpeg"
+              src="https://pechacks.org/img/Domains/AI_final.jpg"
               alt="Leoben Conoy"
             />
           </figure>

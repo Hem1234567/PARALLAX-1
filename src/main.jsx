@@ -14,5 +14,6 @@ createRoot(document.getElementById("root")).render(
     <ScrollAnimationDemo />
     
     <CardComponent/>
+    
   </StrictMode>
 );
