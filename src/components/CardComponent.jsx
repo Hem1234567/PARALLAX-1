@@ -83,7 +83,7 @@ const CardComponent = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Escuchar en Youtube
+                Enroll in Open Track
               </a>
             </div>
           </div>
@@ -115,7 +115,7 @@ const CardComponent = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Escuchar en Youtube
+                enroll in Health Care
               </a>
             </div>
           </div>
@@ -147,7 +147,7 @@ const CardComponent = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Escuchar en Youtube
+                enroll in Social Impact
               </a>
             </div>
           </div>
@@ -178,7 +178,7 @@ const CardComponent = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Escuchar en Youtube
+                enroll in Blockchain & Web 3
               </a>
             </div>
           </div>
@@ -210,7 +210,7 @@ const CardComponent = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Escuchar en Youtube
+                enroll in Artificial Intelligence
               </a>
             </div>
           </div>
