@@ -7,14 +7,12 @@
   font-family: sans-serif;
 }
 
-:root {
-  --color-dark: #202330;
-  --color-white: #fff;
-}
+
 
 body {
   min-height: 100vh;
-  background: var(--color-dark);
+  
+ 
 }
 
 header {

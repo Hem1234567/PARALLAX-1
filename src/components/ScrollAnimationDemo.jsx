@@ -114,11 +114,7 @@ const ScrollAnimationDemo = () => {
   return (
     <div className="content-wrap">
       <header>
-        <h1 className="fluid">
-          let's
-          <br />
-          scroll.
-        </h1>
+        <h1 className="fluid">GLIMPSE</h1>
       </header>
       <main>
         <section ref={contentRef}>
@@ -225,7 +221,7 @@ const ScrollAnimationDemo = () => {
           </div>
         </section>
         <section>
-          <h2 className="fluid">fin.</h2>
+          <h1 className="fluid">DOMAINS</h1>
         </section>
       </main>
     </div>

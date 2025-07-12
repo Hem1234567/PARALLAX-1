@@ -324,6 +324,7 @@
     overflow: clip;
     background: light-dark(#fff, #000);
     z-index: 2;
+    
   }
 }
 

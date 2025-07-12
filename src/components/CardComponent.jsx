@@ -61,24 +61,7 @@ const CardComponent = () => {
 
   return (
     <section>
-      <header>
-        <p>Tagline</p>
-        <h1>Short heading goes here</h1>
-        <div>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-          architecto exercitationem voluptates? Alias, obcaecati qui suscipit
-          totam provident asperiores temporibus eveniet a. At sapiente quo quae
-          dolorum accusamus. Libero, temporibus!
-        </div>
-
-        <a
-          href="https://codepen.io/HugoSalazar/pen/dyBzOdj?editors=1100"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Version without GSAP and Javascript
-        </a>
-      </header>
+      
 
       <div className="l-cards" ref={containerRef}>
         {/* CARD 1 */}
